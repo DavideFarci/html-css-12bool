@@ -5,3 +5,8 @@
     text-align: center;
     padding: 1rem;
 }
+
+.special {
+    background-color: #00E165;
+    border: 1px solid #006CFA ;
+}
