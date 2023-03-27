@@ -1,0 +1,6 @@
+[class*="col-"] {
+    background-color: #006CFA;
+    border: 1px solid white;
+    height: 50px;
+    padding: .3rem;
+}
