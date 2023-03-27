@@ -9,4 +9,7 @@
 .special {
     background-color: #00E165;
     border: 1px solid #006CFA ;
+    font-size: .9em;
+    white-space: nowrap;
+    padding: .5rem;
 }
